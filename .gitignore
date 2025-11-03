@@ -3,4 +3,4 @@ __pycache__/
 instance/
 .env
 todo.db
-  
+Dockerfile
