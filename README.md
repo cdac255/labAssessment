@@ -8,3 +8,5 @@ A simple To-Do List web application built using **Flask** and **SQLite**. This a
 - Delete tasks
 - Simple user interface for task management
 
+--------***----------
+\nYou can always clone this project using git clone
